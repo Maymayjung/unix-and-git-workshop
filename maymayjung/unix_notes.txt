@@ -1,0 +1,15 @@
+cd   change directory
+ls   list directory content
+ls -la   list all content attribute and hidden files
+pwd   print the current working directory
+mkdir   create a new directory
+rm   delete a files
+rm -rf   delete a directory
+rm *   delete all files and a folder
+rm *.jpeg   delete only pictures
+links   text mode browser
+top   monitor system usage cpu 
+ps   list all process
+ps ax   list all process and extra information
+ps ax |less   list the process and extra information and make it scrollable
+

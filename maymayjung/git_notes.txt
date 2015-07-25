@@ -1,0 +1,4 @@
+git clone    pull a copy of master repository to local computer
+git add      add an untrack files to staging area
+git commit   to commit the files to server
+
