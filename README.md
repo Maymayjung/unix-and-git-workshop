@@ -1,5 +1,5 @@
 Unix & Git for Everyone
-1. 8
+1. 8.
 2. Instructor and TA always make sure that everyone is on the same page and go along.
 3. The thing I would recommend is sometime during the class people talk so loud so it is really hard to follow and keep up with the instructor."
 
